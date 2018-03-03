@@ -1,0 +1,2 @@
+sudo gedit /etc/hostname /etc/hosts
+sudo vi /etc/hostname & sudo vi /etc/hosts

@@ -1,0 +1,2 @@
+sudo service ssh start
+sudo service ssh status
