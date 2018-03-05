@@ -1,3 +1,3 @@
-sudo iptables --table nat --list
-sudo iptables -t nat -L
+# sudo iptables --table nat --list
+# sudo iptables -t nat -L
 sudo iptables -L -v

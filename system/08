@@ -1,2 +1,3 @@
-cat $HOME/.ssh/id_rsa – Your private RSA key
+# ssh-keygen
+# cat $HOME/.ssh/id_rsa – Your private RSA key
 cat $HOME/.ssh/id_rsa.pub – Your public RSA key

@@ -1,2 +1,2 @@
-sudo iptables -A INPUT -s 10.0.0.0/8 -j DROP
-sudo /sbin/iptables -A INPUT -j DROP
+# or sudo iptables -P INPUT DROP
+sudo iptables -A INPUT -j DROP

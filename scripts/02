@@ -1,0 +1,4 @@
+sudo crontab -l > temp
+echo "0 4 * * 0 apt-get update >> /var/log/update_script.log && apt-get upgrade >> /var/log/update_script.log" >> temp
+sudo crontab temp
+rm temp

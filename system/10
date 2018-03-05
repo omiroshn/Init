@@ -1,4 +1,4 @@
-sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
-sudo lsblk -> all
+# sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+# sudo lsblk -> all
+# df - The “df” command displays the information of device name, total blocks, total disk space, used disk space, available disk space and mount points on a file system.
 sudo fdisk -l
-df - The “df” command displays the information of device name, total blocks, total disk space, used disk space, available disk space and mount points on a file system.

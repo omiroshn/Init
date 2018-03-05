@@ -1,3 +1,4 @@
-df -h - human readable format 
-df -a - computer readable format
-du
+# df -a - computer readable format
+# du
+# df -h - human readable format
+df -h
